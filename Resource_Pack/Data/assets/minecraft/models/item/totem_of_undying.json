@@ -4,8 +4,8 @@
 		"layer0": "minecraft:item/totem_of_undying"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 2}, "model": "custom:item/totems/dustryd_totem" },
-		{ "predicate": { "custom_model_data": 1}, "model": "custom:item/totems/erdorn_totem" },
+		{ "predicate": { "custom_model_data": 1}, "model": "custom:item/totems/dustryd_totem" },
+		{ "predicate": { "custom_model_data": 2}, "model": "custom:item/totems/erdorn_totem" },
 		{ "predicate": { "custom_model_data": 3}, "model": "custom:item/totems/blob209_totem" },
 		{ "predicate": { "custom_model_data": 4}, "model": "custom:item/totems/brownigirl0_totem" },
 		{ "predicate": { "custom_model_data": 5}, "model": "custom:item/totems/beekyb_totem" },
